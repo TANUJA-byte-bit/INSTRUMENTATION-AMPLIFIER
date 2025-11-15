@@ -32,10 +32,12 @@ MODEL GRAPH:
 <img width="678" height="334" alt="image" src="https://github.com/user-attachments/assets/12577201-466d-4ed0-ad78-32e92a947c6f" />
 
 TABULATION:
+<img width="1068" height="1280" alt="image" src="https://github.com/user-attachments/assets/a1e44fe8-ab58-4546-b8e5-da050e1db2d4" />
 
 
 GRAPH: 
+<img width="985" height="1280" alt="image" src="https://github.com/user-attachments/assets/c289e370-e9eb-4b89-a52a-00f53705119c" />
 
 
 RESULT:
-
+Thus  construction of the CMRR of an instrumentation amplifier is tested successfully using op-amp IC741.
